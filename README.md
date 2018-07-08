@@ -22,7 +22,4 @@ This is a list of the installed software:
 	-pip
 
 # The Third-party Applications used to complete the project
-
-used the following to complete the project:
-	-Putty
-	-Git bash
+	-Youtube [https://www.youtube.com/watch?v=dBgiMtSqbWQ&t=276s]
